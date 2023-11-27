@@ -1,0 +1,25 @@
+{
+    "name": "Chicken",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "Roller Coaster Builder": "github:microsoft/makecode-minecraft-roller-coaster#v1.0.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.7.25",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
